@@ -26,7 +26,7 @@ Hmong Community at AIU is a bilingual website project designed to promote Hmong 
 
 ## Project Status
 
-Currently developing the initial website skeleton for CP1.
+Currently developing initial website skeleton for CP1.
 
 ## Community Partner
 
