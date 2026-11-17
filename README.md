@@ -30,7 +30,7 @@ Currently developing the initial website skeleton for CP1.
 
 ## Community Partner
 
-PK KK — Member of the Hmong Youth Community at AIU.
+Plaifa Kamalaskamoot — Member of the Hmong Youth Community at AIU.
 
 ## Author
 
